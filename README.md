@@ -1,2 +1,2 @@
 # progroll
-A dependency-free and lightweight scroll progress plugin
+A dependency-free and lightweight scroll based progress javascript plugin
