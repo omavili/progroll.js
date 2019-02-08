@@ -1,0 +1,10 @@
+#progroll {
+    position: fixed;
+    top:0;
+    left:0;
+    width: 0%;
+    height: .25rem;
+    background-color: coral;
+    z-index: 99;
+    transition: all .1s ease-out;
+}
