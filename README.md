@@ -1,2 +1,2 @@
 # progroll
-Progroll is a top fixed progress bar that visualizes how much you scrolled down the page while reading an article or scrolling any content.
+Progroll is a top fixed progressive bar that visualizes how much you scroll content when reading an article.
